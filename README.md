@@ -68,7 +68,7 @@
 <a href= "https://www.instagram.com/valenwerle/?hl=es">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a href= "https://www.linkedin.com/in/yordy-erik-nu%C3%B1ez-pineda-406156269/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href= "">
