@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h3 align="left">About me:</h3>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me: </h3>
 <hr width="45%" >
 <h3>Personally: </h3>
 <hr width="30%" >
@@ -71,8 +71,6 @@
 <a href= "https://www.linkedin.com/in/yordy-erik-nu%C3%B1ez-pineda-406156269/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href= "">
-    <img src="https://img.shields.io/badge/Gmail: yordy2450@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
 
 </span>
