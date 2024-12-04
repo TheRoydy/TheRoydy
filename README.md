@@ -52,8 +52,23 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"/></td>
     </tr>
 </table>
+ 
+ <br>
+<h4>Social networks and means of contact </h4>
+<hr width="30%" >
+<span>
+ <a href= "https://www.instagram.com/the_roydy/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href= "https://discord.com/users/725038523249590425">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href= "https://www.linkedin.com/in/yordy-erik-nu%C3%B1ez-pineda-406156269/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</span>
 
-<br>
+<br><br>
 <h3>My GitHub Stats</h3>
 <hr width="30%" >
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
