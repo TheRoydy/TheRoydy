@@ -5,7 +5,7 @@
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h3 align="left">About me:</h3>
-<hr width="50%" >
+<hr width="40%" >
 <h3>Personally: </h3>
 <hr width="30%" >
 -  Passionate about the world of technology 🧑‍💻🌐💻🛜<br>
