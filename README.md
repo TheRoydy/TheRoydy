@@ -2,7 +2,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/62/34/a5/6234a54953bfdb107ff83d1b6e2aaeff.jpg"/>
+<!---
+COMENTARIO PARA LOS FONDOS DE PANTALLA
+https://i.imgur.com/aNBi8Jf.png
+--->
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me: </h3>
 <hr width="45%" >
