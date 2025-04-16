@@ -7,9 +7,7 @@
 COMENTARIO PARA LOS FONDOS DE PANTALLA
 Anime girl: https://i.imgur.com/aNBi8Jf.png
 Shorekeeper: https://i.pinimg.com/736x/62/34/a5/6234a54953bfdb107ff83d1b6e2aaeff.jpg
-
 --->
-
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me: </h3>
 <hr width="45%" >
 <h3>Personally: </h3>
