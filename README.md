@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/de/8e/7a/de8e7a3bf2e8ee05644a6bf88988e6b8.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/64/9f/1a/649f1a02d9873455496a141930ad3a23.jpg"/>
 <!---
 COMENTARIO PARA LOS FONDOS DE PANTALLA
 Anime girl: https://i.imgur.com/aNBi8Jf.png
@@ -13,6 +13,7 @@ https://i.pinimg.com/736x/9f/e1/44/9fe144518c91cb2b4f8d37217d503af8.jpg
 https://i.pinimg.com/736x/66/71/41/6671417a4c904bfb8ceef11456986ef6.jpg
 Mas fondos:
 https://i.pinimg.com/736x/57/82/f3/5782f3d36b21601b1c1060a71433f9fb.jpg
+https://i.pinimg.com/736x/de/8e/7a/de8e7a3bf2e8ee05644a6bf88988e6b8.jpg
 --->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me: </h3>
 <hr width="45%" >
