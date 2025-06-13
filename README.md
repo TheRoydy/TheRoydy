@@ -42,7 +42,7 @@ https://i.pinimg.com/736x/01/c2/a6/01c2a6a2f14d51517de646c22e29df3f.jpg
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,python,spring,kotlin"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,spring"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -50,7 +50,7 @@ https://i.pinimg.com/736x/01/c2/a6/01c2a6a2f14d51517de646c22e29df3f.jpg
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
@@ -62,7 +62,7 @@ https://i.pinimg.com/736x/01/c2/a6/01c2a6a2f14d51517de646c22e29df3f.jpg
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
     </tr>
 </table>
  
@@ -70,9 +70,10 @@ https://i.pinimg.com/736x/01/c2/a6/01c2a6a2f14d51517de646c22e29df3f.jpg
 <h4>Social networks and means of contact </h4>
 <hr width="30%" >
 <span>
+ <!---
  <a href= "https://www.instagram.com/the_roydy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+</a>--->
 <a href= "https://www.linkedin.com/in/yordy-erik-nu%C3%B1ez-pineda-406156269/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
